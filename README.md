@@ -7,6 +7,9 @@ Use the apk file to install on your mobile and have a look.
 
 ### App Look:
 
-https://user-images.githubusercontent.com/59869563/156029630-3fc9a2e1-479c-4203-bf9d-65a499f0a72e.mov
+
+https://user-images.githubusercontent.com/59869563/156029879-636e5f6d-007e-4843-8a99-b8c3eaf3cb87.mov
+
+
 
 You can Enroll on Expertrons to learn how to build this from Scratch!
